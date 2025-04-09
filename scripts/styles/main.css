@@ -1,0 +1,98 @@
+.langs a img {
+  width: 20px;
+  height: 14px;
+  padding-bottom: 3px;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.carousel-inner {
+    height: 400px; 
+  }
+  .carousel-item {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .carousel-item img {
+    height: 243px;
+    width: 300px;
+    object-fit: cover;
+  }
+  .uslugi{
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
+  table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+  .card-uslugi{
+    gap: 10px
+  }
+  .h1-text{
+margin-left: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+  .gallery .card img{
+height: 220px;
+width: 100%;
+  }
+  .sec3{
+    margin-top: 70px;
+  
+  }
+  .sec2{
+    margin-top: 70px;
+    
+  }
+.test-slider{
+  margin-top: 70px;
+}
+.drk{
+
+}
+.sec1 .carousel-item{
+  position: relative !important; 
+}
+.drk{
+  position: absolute; position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: rgba(0,0,0,0.4);
+}
+.card {
+  overflow: hidden;
+  position: relative;
+}
+.card-img-top {
+  transition: transform 0.3s ease;
+  display: block;
+  width: 100%;
+}
+.card:hover .card-img-top {
+  transform: scale(1.1);
+}
+.footer_top{
+  background-color:#f7f7f7;
+  padding: 50px;
+}
+.footer{
+  margin-top: 100px;
+}
